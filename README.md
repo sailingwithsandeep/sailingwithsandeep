@@ -1,7 +1,7 @@
 # Hello 👋
 
 <div align="center">
-<img hight="120" width="500" alt="GIF" align="center" src="https://github.com/SandeepParmar-RKU/SandeepParmar/blob/master/assets/hi.gif">
+<img hight="120" width="500" alt="GIF" align="center" src="https://github.com/SandeepParmar-RKU/Profile-Bio/blob/master/assets/hi.gif">
 </div>
 
 </br>
@@ -15,7 +15,7 @@
 
 I've had the chance to immerse myself in many different projects, helping to make this world a little better through teamworker.✨
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/SandeepParmar-RKU/SandeepParmar/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/SandeepParmar-RKU/Profile-Bio/blob/master/assets/1936.gif">
 
 ### - Learning :
 - ✨ Unity and React-Native
@@ -116,7 +116,7 @@ I've had the chance to immerse myself in many different projects, helping to mak
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/SandeepParmar-RKU/SandeepParmar/blob/master/assets/1.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/SandeepParmar-RKU/Profile-Bio/blob/master/assets/1.gif">
 
 
 Contact me for any kind of realted quaries.

@@ -1,7 +1,7 @@
 # Hello 👋
 
 <div align="center">
-<img hight="120" width="500" alt="GIF" align="center" src="https://github.com/SandeepParmar-RKU/Profile-Bio/blob/master/assets/hi.gif">
+<img hight="120" width="450" alt="GIF" align="center" src="https://github.com/SandeepParmar-RKU/Profile-Bio/blob/master/assets/hi.gif">
 </div>
 
 </br>

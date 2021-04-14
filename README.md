@@ -147,7 +147,7 @@ Contact me for any kind of realted quaries.
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=SandeepParmar-RKU&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=SandeepParmar-RKU&show_icons=true&theme=radical"/>
   </a>
   </p>
 

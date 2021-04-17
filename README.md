@@ -23,7 +23,7 @@ I've had the chance to immerse myself in many different projects, helping to mak
 
 ### - Hobbies : 
 - ✨ Gaming 
-- ✨ Moive Geek
+- ✨ Movie Geek
 - ✨ Read Novels, Articles and Lyric essays 
 - ✨ Travelling
 

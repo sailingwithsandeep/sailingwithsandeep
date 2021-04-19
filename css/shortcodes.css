@@ -1,0 +1,497 @@
+@charset "UTF-8";
+
+/* Table Of Content
+-----------------------------------------------------
+01. Blog Element
+02. Counter Element
+03. Portfolio Element
+    03.1 Portfolio Responsive
+04. Testimonial Element
+05. Social Share Element
+-----------------------------------------------------
+*/
+
+
+/*-----------------------
+    01. Blog Element
+------------------------*/
+.post-grid-style1 .post-grid-item a {
+    text-decoration: none;
+}
+.post-grid-style1 .post-grid-img {
+    position: relative;
+    overflow: hidden;
+}
+.post-grid-style1 .post-grid-item img {-webkit-transform: scale(1);transform: scale(1);-webkit-transition: all .4s ease-in-out;transition: all .4s ease-in-out;}
+.post-grid-style1 .post-grid-item:hover img {-webkit-transform: scale(1.3);transform: scale(1.3);}
+.post-grid-style1 .post-grid-img .post-date {
+    position: absolute;
+    top: 15px;
+    padding: 8px 15px;
+    left: 15px;
+    font-size: 16px;
+    background: #6766db;
+    background-image: linear-gradient(135deg,#605cee,#7571c8);
+    color: #fff;
+}
+.post-grid-style1 .post-grid-meta {
+    padding-left: 0;
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+.post-grid-style1 .post-grid-meta li {
+    display: inline-block;
+    font-size: 12px;
+    margin-right: 8px;
+}
+.post-grid-style1 .post-grid-meta li a {
+    color: #999;
+}
+.post-grid-style1 .post-grid-content {
+    padding: 25px;
+    z-index: 111;
+    background: #fff;
+    position: relative;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+.post-grid-style1 .post-grid-title {
+    margin-top: 0;
+    font-size: 22px;
+    margin-bottom: 15px;
+    border-top: 1px solid #eee;
+    padding-top: 10px;
+    margin-top: 11px;
+}
+.post-grid-style1 .post-grid-title a {
+    color: #444;
+}
+.post-grid-style1 .post-grid-title a:hover {
+    color: #222;
+}
+.post-grid-style1 .post-grid-desc {
+    margin-bottom: 15px;
+}
+.post-grid-style1 .post-grid-desc p {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 0;
+}
+.post-grid-style1 .post-grid-footer a {
+    font-size: 14px;
+    color: #777;
+}
+
+/*------------------------------
+    02. Counter Element  
+--------------------------------*/
+.tc-counter .counter-item {
+    text-align: center;
+}
+.tc-counter .counter-item i {
+    display: inline-block;
+    font-size: 46px;
+}
+.tc-counter .counter {
+    font-size: 46px;
+    line-height: 1;
+    margin-top: 14px;
+    margin-bottom: 7px;
+}
+.tc-counter .counter-title {
+    font-size: 16px;
+    margin: 0;
+    letter-spacing: 1px;
+    color: #9E9E9E;
+}
+.bg-black .uk-grid [class*="uk-width-"] {
+    border-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/*-----------------------------
+    03. Portfolio Element  
+-------------------------------*/
+div[class*="filter-"] ul li {
+    display: inline-block;
+}
+.filter-style1 {
+    text-align: center;
+    overflow: hidden;
+}
+.filter-style1 ul {
+    position: relative;
+    padding: 0 40px;
+    display: inline-block;
+}
+.filter-style1 ul:before,
+.filter-style1 ul:after {
+    position: absolute;
+    content: '';
+    height: 1px;
+    width: 80px;
+    top: 50%;
+    margin-top: -1px;
+    background-color: #000;
+}
+.filter-style1 ul:before {
+    left: -80px;
+    background: #6766db;
+    background-image: linear-gradient(-135deg,#605cee,#fff);
+}
+.filter-style1 ul:after {
+    right: -80px;
+    background: #6766db;
+    background-image: linear-gradient(135deg,#605cee,#fff);
+}
+
+.filter-style1 ul li a {
+    display: inline-block;
+    color: #000;
+    padding: 3px 15px;
+    border: 1px solid transparent;
+    text-decoration: none !important;
+    border-radius: 4px;
+}
+.filter-style1 ul li.uk-active a, .filter-style1 ul li a:hover {
+    background: #6766db;
+    background-image: linear-gradient(135deg,#605cee,#7571c8);
+    color: #fff;
+}
+.filter-style2 ul {
+    padding-left: 0;
+}
+.filter-style2 ul li a {
+    display: inline-block;
+    color: #999;
+    padding: 4px 14px;
+    margin-right: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    text-decoration: none !important;
+    -webkit-transition: all .25s ease;
+    transition: all .25s ease;
+}
+.filter-style2 ul li a:hover,
+.filter-style2 ul li.uk-active a {
+    background-color: #333;
+    border-color: #333;
+    color: #bbb;
+}
+.portfolio-style1 .p-item {
+    position: relative;
+    overflow: hidden;
+}
+.portfolio-style1 .p-desc-holder {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.portfolio-style1 .p-desc-holder:before {
+    position: absolute;
+    content: '';
+    background: rgba(255, 255, 255, 0.7);
+    opacity: 0;
+    top: 10px;
+    left: 10px;
+    bottom: 10px;
+    right: 10px;
+    -webkit-transition: .3s opacity ease-in;
+    transition: .3s opacity ease-in;
+}
+.portfolio-style1 .p-title {
+    font-size: 17px;
+    line-height: normal;
+    margin-bottom: 0;
+}
+.portfolio-style1 .p-title a {
+    color: #000;
+    text-decoration: none;
+}
+.portfolio-style1 .p-zoom {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translateX(-50%) translateY(-50%) scale(0, 0);
+    transform: translateX(-50%) translateY(-50%) scale(0, 0);
+    -webkit-transition: .4s all ease-in-out;
+    transition: .4s all ease-in-out;
+    font-size: 13px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    color: #444;
+    cursor: pointer;
+}
+.portfolio-style1 .p-top,
+.portfolio-style1 .p-bottom {
+    position: absolute;
+    width: 100%;
+    opacity: 0;
+    -webkit-transition: .4s all ease-in-out;
+    transition: .4s all ease-in-out;
+}
+.portfolio-style1 .p-top {
+    top: 30px;
+    left: 60%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+.portfolio-style1 span {
+    font-family: 'Open Sans', sans-serif;
+    color: #888;
+    font-size: 11px;
+}
+.portfolio-style1 .p-bottom {
+    bottom: 30px;
+    right: 60%;
+    -webkit-transform: translateX(50%);
+    transform: translateX(50%);
+}
+.portfolio-style1 span.p-likes {
+    margin-right: 10px;
+    padding-right: 15px;
+    position: relative;
+}
+.portfolio-style1 span.p-likes:before {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    content: '';
+    height: 11px;
+    width: 1px;
+    background-color: #000;
+    -webkit-transform: rotate(30deg) translateY(-50%);
+    transform: rotate(30deg) translateY(-50%);
+}
+.portfolio-style1 .p-item:hover .p-desc-holder:before {
+    opacity: 1;
+}
+.portfolio-style1 .p-item:hover .p-zoom {
+    -webkit-transform: translateX(-50%) translateY(-50%) scale(1, 1);
+    transform: translateX(-50%) translateY(-50%) scale(1, 1);
+}
+.portfolio-style1 .p-zoom:hover {
+    background-color: #444;
+    color: #fff;
+}
+.portfolio-style1 .p-item:hover .p-top {
+    left: 50%;
+    opacity: 1;
+}
+.portfolio-style1 .p-item:hover .p-bottom {
+    right: 50%;
+    opacity: 1;
+}
+
+.portfolio-style2 .p-item {
+    overflow: hidden;
+}
+.portfolio-style2 .p-desc-holder {
+    padding: 25px;
+    background: #fff;
+    position: relative;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+}
+.portfolio-style2 .p-item img {-webkit-transform: scale(1);transform: scale(1);-webkit-transition: all .4s ease-in-out;transition: all .4s ease-in-out;}
+.portfolio-style2 .p-item:hover img {-webkit-transform: scale(1.25);transform: scale(1.25);}
+.portfolio-style2 .p-item:hover .p-desc-holder {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
+}
+.portfolio-style2 .p-desc-holder .p-title {
+    margin-bottom: 0;
+    font-size: 15px;
+}
+.portfolio-style2 .p-desc-holder .p-category {
+    font-size: 12px;
+}
+.portfolio-style2 .p-desc-holder .p-title a {
+    color: #444;
+    text-decoration: none;
+}
+.portfolio-style2 .p-middle {
+    position: absolute;
+    top: -20px;
+    right: 20px;
+}
+.portfolio-style2 .p-middle .p-zoom {
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 40px;
+    background: #fff;
+    color: #444;
+    border-radius: 50%;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+}
+.portfolio-style2 .p-middle .p-zoom:hover {
+    background: #f5f5f5;
+}
+.portfolio-style2 .p-bottom {
+    position: absolute;
+    top: -30px;
+    opacity: 0;
+    background: #fff;
+    padding: 3px 9px;
+    border-radius: 4px;
+    font-size: 11px;
+    color: #777;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+}
+.portfolio-style2 .p-item:hover .p-bottom {
+    top: -44px;
+    opacity: 1
+}
+
+/*-----------------------------------
+    03.1 Portfolio Responsive
+-------------------------------------*/
+@media (max-width: 767px) {
+    .portfolio-style1 .p-zoom {
+        font-size: 11px;
+        width: 32px;
+        height: 32px;
+        line-height: 32px;
+    }
+}
+
+/*------------------------------
+    04. Testimonial Element
+--------------------------------*/
+.tc-testimonial .tm-item {
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.tc-testimonial .tm-item i {
+    display: inline-block;
+    font-size: 26px;
+    color: #fff;
+    padding: 30px;
+    background: #6766db;
+    background-image: linear-gradient(135deg,#605cee,#7571c8);
+    border-radius: 50%;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+.tc-testimonial .testi-desc {
+    margin-top: 45px;
+    margin-bottom: 30px;
+}
+.tc-testimonial .testi-desc p {
+    font-size: 17px;
+    margin: 0;
+}
+.tc-testimonial .tm-item .testi-info h4 {
+    color: #444;
+    font-weight: 600;
+    letter-spacing: 3px;
+    margin-bottom: 5px;
+}
+.bg-black.tc-testimonial .tm-item .testi-info h4 {
+    color: rgba(255, 255, 255, 0.7);
+}
+.tc-testimonial .tm-item .testi-info p {
+    margin: 0;
+}
+.tc-testimonial .tm-item .testi-info p a {
+    color: inherit;
+}
+
+/*------------------------------
+    05. Social Share Element
+--------------------------------*/
+.sl-share {
+    padding-left: 0;
+}
+.sl-share li {
+    display: inline-block;
+    margin: .5em;
+}
+.sl-share li a {
+    display: block;
+    position: relative;
+}
+.sl-share li a span {
+    position: absolute;
+    top: -38px;
+    left: 0;
+    padding: 6px 26px;
+    background: rgba(0,0,0,0.65);
+    color: #fff;
+    font-size: 12px;
+    letter-spacing: 1px;
+    border-radius: 4px;
+    display: inline-block;
+    visibility: hidden;
+    opacity: 0;
+    -webkit-transition: top .25s cubic-bezier(0.25, 0.1, 0.66, 0.68), opacity .25s cubic-bezier(0.25, 0.1, 0.63, 0.6);
+    transition: top .25s cubic-bezier(0.25, 0.1, 0.66, 0.68), opacity .25s cubic-bezier(0.25, 0.1, 0.63, 0.6);
+}
+.sl-share li a span:after {
+    content: '';
+    position: absolute;
+    left: 20px;
+    border: 6px solid transparent;
+    border-top-color: rgba(0, 0, 0, 0.65);
+    bottom: -12px;
+}
+.sl-share li a:hover span {
+    top: -46px;
+    opacity: 1;
+    visibility: visible;
+}
+.sl-share li a i {
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    font-size: 34px;
+    text-align: center;
+    border-radius: 4px;
+    color: #bbb;
+    background-color: rgba(0,0,0,0.1);
+    -webkit-transition: background-color .3s ease, color .1s ease-in-out;
+    transition: background-color .3s ease, color .1s ease-in-out;
+}
+.sl-share.light li a i {
+    color: #e8e8e8;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.sl-share li a i:hover {
+    color: #fff
+}
+.sl-share li a:hover i[class*="-facebook"] {
+    background-color: #4766A9;
+}
+.sl-share li a:hover i[class*="-twitter"] {
+    background-color: #00ACED;
+}
+.sl-share li a:hover i[class*="-google-plus"] {
+    background-color: #DB4437;
+}
+.sl-share li a:hover i[class*="-dribbble"] {
+    background-color: #CB5D9C;
+}
+.sl-share li a:hover i[class*="-linkedin"] {
+    background-color: #0177B5;
+}
+.sl-share li a:hover i[class*="-instagram"] {
+    background-color: #97369D;
+}
+.sl-share li a:hover i[class*="-pinterest"] {
+    background-color: #BB0B1F;
+}
+.sl-share li a:hover i[class*="-github"] {
+    background-color: #323131;
+}
+.sl-share li a:hover i[class*="-flickr"] {
+    background-color: #FF1981;
+}
+.sl-share li a:hover i[class*="-vk"] {
+    background-color: #4C75A3;
+}

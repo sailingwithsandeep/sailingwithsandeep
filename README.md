@@ -9,9 +9,7 @@
 </br>
 
 
-# About ME 💬 <a href="https://sandeepparmar-rku.github.io/">
-  Portfolio
-</a> :
+# About ME 💬  :
 
 ### - I'm Full Stack Developer currently working as freelancer, From India.
 
@@ -133,7 +131,9 @@ Contact me for any kind of realted quaries.
 </br>
 </br>
 </a>
-
+<a href="https://sandeepparmar-rku.github.io/">
+ sandeepparmar-rku.github.io
+</a>
  </p>
  
 

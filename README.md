@@ -132,7 +132,7 @@ Contact me for any kind of realted quaries.
 </br>
 </a>
 <a href="https://sandeepparmar-rku.github.io/">
- <img align="left" alt="Portfolio"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  Portfolio
 </a>
  </p>
  

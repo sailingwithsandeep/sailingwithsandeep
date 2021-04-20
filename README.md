@@ -127,13 +127,11 @@ Contact me for any kind of realted quaries.
 </a>
 <a href="https://www.linkedin.com/in/sandeep-parmar-rku">
   <img align="left" alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
- style=for-the-badge&logo=github&logoColor=white
 </br>
 </br>
 </br>
 </a>
 <a href="https://sandeepparmar-rku.github.io/">
- 
  <img align="left" alt="Portfolio"  src=" https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
  </p>

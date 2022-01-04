@@ -18,7 +18,7 @@ I've had the chance to immerse myself in many different projects, helping to mak
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/SandeepParmar-RKU/Profile-Bio/blob/master/assets/1936.gif">
 
 ### - Learning :
-- ✨ Flutter,Unity and React-Native
+- ✨ MERN Stack
 - ✨ Competative Programming
 
 ### - Hobbies : 
@@ -131,8 +131,8 @@ Contact me for any kind of realted quaries.
 </br>
 </br>
 </a>
-<a href="https://sandeepparmar-rku.github.io/">
- sandeepparmar-rku.github.io
+<a href="https://sailingwithsandeep.github.io/">
+ Portfolio
 </a>
  </p>
  

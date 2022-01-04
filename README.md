@@ -125,7 +125,7 @@ Contact me for any kind of realted quaries.
 <a href="https://discord.com/users/505285752704204831">
  <img align="left" alt="Discord"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-<a href=www.linkedin.com/in/sailingwithsandeep">
+<a href="www.linkedin.com/in/sailingwithsandeep">
   <img align="left" alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </br>
 </br>

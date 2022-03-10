@@ -1,8 +1,8 @@
 # Hello 👋
 
 <div align="center">
-<img hight="120" width="450" alt="GIF" align="center" src="https://github.com/SandeepParmar-RKU/Profile-Bio/blob/master/assets/hi.gif">
-</div>
+<img height="120" width="450" alt="GIF" align="center" src="https://github.com/SandeepParmar-RKU/Profile-Bio/blob/master/assets/hi.gif">
+</div><iframe src="https://giphy.com/embed/MWSRkVoNaC30A" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-hello-oh-MWSRkVoNaC30A">via GIPHY</a></p>
 
 </br>
 </br>

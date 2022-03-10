@@ -11,7 +11,7 @@
 
 # About ME 💬  :
 
-### - I'm Full Stack Developer currently working as freelancer, From India.
+### - I'm NodeJS Stack Developer currently working at <a src="https://www.yudiz.com/">Yudiz Solutions Pvt Ltd</a>, From India.
 
 I've had the chance to immerse myself in many different projects, helping to make this world a little better through teamworker.✨
 

@@ -14,7 +14,7 @@
 
 I've had the chance to immerse myself in many different projects, helping to make this world a little better through teamworker.✨
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/fUrXPnN.gifv">
+<img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/fUrXPnN.gif">
 
 ### - Learning :
 - ✨ MERN Stack

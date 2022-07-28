@@ -14,7 +14,7 @@
 
 I've had the chance to immerse myself in many different projects, helping to make this world a little better through teamworker.✨
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/fUrXPnN.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/sailingwithsandeep/sailingwithsandeep/blob/master/assets/cat.gif">
 
 ### - Learning :
 - ✨ Advance Databases
@@ -110,7 +110,7 @@ I've had the chance to immerse myself in many different projects, helping to mak
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/SandeepParmar-RKU/Profile-Bio/blob/master/assets/2.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/sailingwithsandeep/sailingwithsandeep/blob/master/assets/2.gif">
 
 
 Contact me for any kind of realted quaries.

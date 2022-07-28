@@ -110,7 +110,7 @@ I've had the chance to immerse myself in many different projects, helping to mak
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/sailingwithsandeep/sailingwithsandeep/blob/master/assets/2.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/sailingwithsandeep/sailingwithsandeep/blob/master/assets/ar.gif">
 
 
 Contact me for any kind of realted quaries.

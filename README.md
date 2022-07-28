@@ -10,7 +10,7 @@
 
 # About ME 💬  :
 
-### - I'm Backend Developer currently working at <a href="https://www.yudiz.com/">Yudiz Solutions Pvt Ltd</a>
+### - I'm a Backend Developer currently working at <a href="https://www.yudiz.com/">Yudiz Solutions Pvt Ltd</a>
 
 I've had the chance to immerse myself in many different projects, helping to make this world a little better through teamworker.✨
 

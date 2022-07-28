@@ -17,7 +17,7 @@ I've had the chance to immerse myself in many different projects, helping to mak
 <img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/fUrXPnN.gif">
 
 ### - Learning :
-- ✨ Advanced Databases
+- ✨ Advance Databases
 - ✨ System design
 
 ### - Hobbies : 

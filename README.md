@@ -126,10 +126,7 @@ Contact me for any kind of realted quaries.
 </br>
 </br>
 </br>
-</a>
-<a href="https://sailingwithsandeep.github.io/">
- Portfolio
-</a>
+
  </p>
  
 

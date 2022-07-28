@@ -1,29 +1,29 @@
-# Hello 👋
+# Hello There! 👋
 
 <div align="center">
 
 </div>
 </br>
-</br>
-</br>
+<!-- </br>
+</br> -->
 
 
 # About ME 💬  :
 
-### - I'm NodeJS Developer currently working at <a href="https://www.yudiz.com/">Yudiz Solutions Pvt Ltd</a>
+### - I'm Backend Developer currently working at <a href="https://www.yudiz.com/">Yudiz Solutions Pvt Ltd</a>
 
 I've had the chance to immerse myself in many different projects, helping to make this world a little better through teamworker.✨
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/fUrXPnN.gif">
 
 ### - Learning :
-- ✨ MERN Stack
-- ✨ Competative Programming
+- ✨ Advanced Databases
+- ✨ System design
 
 ### - Hobbies : 
 - ✨ Gaming 
 - ✨ Movie Geek
-- ✨ Read Novels, Articles and Lyric essays 
+- ✨ Novels, Articles and Lyric essays 
 - ✨ Travelling
 
 </br>

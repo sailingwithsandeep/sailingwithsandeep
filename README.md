@@ -10,7 +10,7 @@
 
 # About ME 💬  :
 
-### - I'm a MERN Developer currently working at <a href="https://www.yudiz.com/">Yudiz Solutions Pvt Ltd</a>
+### - A MERN Stack Developer
 
 I've had the chance to immerse myself in many different projects, helping to make this world a little better through teamworker.✨
 

@@ -101,7 +101,7 @@ I've had the chance to immerse myself in many different projects, helping to mak
 </br>
 </br>
 
-
+[Holopin Badges](https://holopin.me/lucifetthedevil)](https://holopin.io/@lucifetthedevil)
 
 # Where to find me 📱 :
 
@@ -137,7 +137,7 @@ Contact me for any kind of realted quaries.
 </br>
 </br>
 
-[Holopin Badges](https://holopin.me/lucifetthedevil)](https://holopin.io/@lucifetthedevil)
+
 
 
 <!--<p align="center" >  

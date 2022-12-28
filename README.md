@@ -100,8 +100,7 @@ I've had the chance to immerse myself in many different projects, helping to mak
 </br>
 </br>
 </br>
-#### Holopin badges
-[![Holopin Badges](https://holopin.io/api/user/board?user=lucifetthedevil)](https://holopin.io/@lucifetthedevil)
+
 
 # Where to find me 📱 :
 
@@ -128,8 +127,8 @@ Contact me for any kind of realted quaries.
 
  </p>
  
-[![@lunarwatcher's Holopin board](https://holopin.io/api/user/board?user=lunarwatcher)](https://holopin.io/@lunarwatcher)
-
+#### Holopin badges
+[![Holopin Badges](https://holopin.io/api/user/board?user=lucifetthedevil)](https://holopin.io/@lucifetthedevil)
 </br>
 </br>
 </br>

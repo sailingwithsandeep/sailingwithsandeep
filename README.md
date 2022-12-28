@@ -100,6 +100,7 @@ I've had the chance to immerse myself in many different projects, helping to mak
 </br>
 </br>
 </br>
+[![An image of @lucifetthedevil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucifetthedevil)](https://holopin.io/@lucifetthedevil)
 [![Holopin Badges](https://holopin.me/lucifetthedevil)](https://holopin.io/@lucifetthedevil)
 
 # Where to find me 📱 :

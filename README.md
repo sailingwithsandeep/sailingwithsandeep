@@ -100,6 +100,7 @@ I've had the chance to immerse myself in many different projects, helping to mak
 </br>
 </br>
 </br>
+[![@lunarwatcher's Holopin board](https://holopin.io/api/user/board?user=lunarwatcher)](https://holopin.io/@lunarwatcher)
 [![An image of @lucifetthedevil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucifetthedevil)](https://holopin.io/@lucifetthedevil)
 [![Holopin Badges](https://holopin.me/lucifetthedevil)](https://holopin.io/@lucifetthedevil)
 

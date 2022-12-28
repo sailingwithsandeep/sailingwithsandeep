@@ -127,17 +127,16 @@ Contact me for any kind of realted quaries.
 
  </p>
  
-#### Holopin badges
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
 [![Holopin Badges](https://holopin.io/api/user/board?user=lucifetthedevil)](https://holopin.io/@lucifetthedevil)
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
 
 
 <!--<p align="center" >  

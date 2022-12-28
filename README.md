@@ -18,7 +18,7 @@ I've had the chance to immerse myself in many different projects, helping to mak
 
 ### - Learning :
 - ✨ Advance Databases
-- ✨ System design
+- ✨ Exploring Golang for side projects
 
 ### - Hobbies : 
 - ✨ Gaming 

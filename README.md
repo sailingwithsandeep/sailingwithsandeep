@@ -100,8 +100,7 @@ I've had the chance to immerse myself in many different projects, helping to mak
 </br>
 </br>
 </br>
-
-[Holopin Badges](https://holopin.me/lucifetthedevil)](https://holopin.io/@lucifetthedevil)
+[![Holopin Badges](https://holopin.me/lucifetthedevil)](https://holopin.io/@lucifetthedevil)
 
 # Where to find me 📱 :
 

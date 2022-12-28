@@ -137,6 +137,7 @@ Contact me for any kind of realted quaries.
 </br>
 </br>
 
+[Holopin Badges](https://holopin.me/lucifetthedevil)](https://holopin.io/@lucifetthedevil)
 
 
 <!--<p align="center" >  

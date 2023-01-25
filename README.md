@@ -10,7 +10,7 @@
 
 # About ME 💬  :
 
-### - A MERN Stack Developer
+### - A Back-end Developer
 
 I've had the chance to immerse myself in many different projects, helping to make this world a little better through teamworker.✨
 

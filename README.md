@@ -13,7 +13,7 @@
 ### - I am mostly into backend technologies
 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/sailingwithsandeep/sailingwithsandeep/blob/master/assets/cat.gif">
+<img hight="400" width="500" alt="GIF" align="center" src="https://github.com/sailingwithsandeep/sailingwithsandeep/blob/master/assets/cat.gif">
 
 
 

@@ -32,18 +32,17 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/sailingwithsandeep/sailingwithsandeep/blob/master/assets/ar.gif">
 
 
 
 <a href="mailto:sailingwithsandeep@gmail.com">
- <img align="left" alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <img align="center" alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://discord.com/users/505285752704204831">
- <img align="left" alt="Discord"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+ <img align="center" alt="Discord"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/sailingwithsandeep">
-  <img align="left" alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </br>
 </br>
 </br>

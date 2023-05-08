@@ -12,8 +12,10 @@
 
 ### - I am mostly into backend technologies
 
+<div width=100% align="center">
+ <img hight="400" width="500" alt="GIF"  src="https://github.com/sailingwithsandeep/sailingwithsandeep/blob/master/assets/cat.gif">
 
-<img hight="400" width="500" alt="GIF" align="center" src="https://github.com/sailingwithsandeep/sailingwithsandeep/blob/master/assets/cat.gif">
+</div>
 
 
 
@@ -27,7 +29,7 @@
 
 
 # My mere existence on other plateforms 📱 :
-
+<div width=100% align="center">
 <p>
  </br>
 
@@ -56,7 +58,7 @@
 </br>
 </br>
 </br>
-
+</div>
 
 
 

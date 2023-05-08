@@ -10,8 +10,8 @@
 
 # About ME 💬  :
 
-### - Professnionally - mostly into backend technologies
-### - Otherwise - Gaming, reading or watching
+### - Most of the time exploring backend technologies
+### - Otherwise you will find me doing Gaming, reading or watching
 
 <div width=100% align="center">
  <img hight="400" width="500" alt="GIF"  src="https://github.com/sailingwithsandeep/sailingwithsandeep/blob/master/assets/cat.gif">

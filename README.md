@@ -8,7 +8,7 @@
 </br> -->
 
 
-# About ME 💬  :
+# You will find me 💬  :
 
 ### - Most of the time exploring backend technologies
 ### - Otherwise you will find me doing Gaming, reading or watching

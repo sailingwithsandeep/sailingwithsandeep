@@ -1,5 +1,7 @@
 # Hello There! 👋
 
+### I'm awkward, have big black eyes, and occasionally have some really smart and wise things to say
+
 <div align="center">
 
 </div>
@@ -11,8 +13,7 @@
 # You will find me 💬  :
 
 ### - Most of the time exploring backend technologies
-### - Otherwise you will find me gaming or reading novels
-
+### - Otherwise I am a gamer & lecitophile
 <div width=100% align="center">
  <img hight="400" width="500" alt="GIF"  src="https://github.com/sailingwithsandeep/sailingwithsandeep/blob/master/assets/cat.gif">
 

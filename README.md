@@ -13,7 +13,7 @@
 # You will find me 💬  :
 
 ### - Most of the time exploring backend technologies
-### - Otherwise I am a gamer & lecitophile
+### - Also, I am a gamer & lecitophile
 <div width=100% align="center">
  <img hight="400" width="500" alt="GIF"  src="https://github.com/sailingwithsandeep/sailingwithsandeep/blob/master/assets/cat.gif">
 

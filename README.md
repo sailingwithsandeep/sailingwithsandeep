@@ -11,7 +11,7 @@
 # You will find me 💬  :
 
 ### - Most of the time exploring backend technologies
-### - Otherwise you will find me doing Gaming, reading or watching
+### - Otherwise you will find me gaming or reading novels
 
 <div width=100% align="center">
  <img hight="400" width="500" alt="GIF"  src="https://github.com/sailingwithsandeep/sailingwithsandeep/blob/master/assets/cat.gif">
